@@ -6,4 +6,4 @@ Kotlin基础篇链接:
 * 第二期(function, lambda和DSL)：https://youtu.be/m946z_ViMck
 * 第三期(scope functions, 作用域函数)：https://youtu.be/6vmHTiucD1k
 
-我們youtube頻道: https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
+我們的youtube頻道: https://www.youtube.com/channel/UCI_nzNMP4JEyJiITpJeIxYg
